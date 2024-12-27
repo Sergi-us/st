@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMono NF ExtraLight:style=ExtraLight:pixelsize=26:antialias=true:autohint=true";
+static char *font = { "JetBrainsMono NF ExtraLight:style=ExtraLight:pixelsize=28:antialias=true:autohint=true" };
 static char *font2[] = { "OpenMoji:pixelsize=26:antialias=true:autohint=true" };
 static int borderpx = 2;
 
